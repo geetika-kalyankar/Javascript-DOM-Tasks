@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+button{
+    margin-top: 20px;
+    margin-left: 10px;
+    border: none;
+    color: #ffff;
+    font-size: 12px;
+    border-radius: 3px;
+}
+
+.btn-green{
+    background-color: green;
+    padding: 10px 40px;
+    display: none;
+}
+.btn-red{
+    background-color: red;
+    padding: 10px 57px;
+}
